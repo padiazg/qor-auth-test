@@ -1,0 +1,26 @@
+<div style="margin:auto; text-align: center;">
+  <h2>Register</h2>
+
+  {{$flashes := .Flashes}}
+  {{if $flashes}}
+    <ul>
+      {{range $flash := $flashes}}
+        <li>{{$flash.Message}}</li>
+      {{end}}
+    </ul>
+  {{end}}
+  <div>
+    <a href="{{.AuthURL "login"}}">Sign in</a>
+  </div>
+  {{if .Auth.GetProvider "password"}}
+  <form action="{{.AuthURL "password/register"}}" method="POST">
+    Login:    <input name="login">
+    <br/>
+    Password: <input name="password" type="password">
+    <br/>
+    COnfirm: <input name="confirm_password" type="password">
+    <br/>
+    <input type="submit" value="Sign Up">
+  </form>
+  {{end}}
+</div>

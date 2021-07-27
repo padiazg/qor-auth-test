@@ -1,0 +1,4 @@
+.vscode
+qor-auth-test
+*.db
+*.orig
