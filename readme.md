@@ -1,7 +1,7 @@
 # QOR/Auth & QOR/Roles test
 
-https://github.com/qor/auth
-https://github.com/qor/roles
+https://github.com/qor/auth  
+https://github.com/qor/roles  
 
 
 This is an effort to understand how to use this two libraries
