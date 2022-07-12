@@ -11,10 +11,10 @@ There are a few custom fuctions, as looks like some features are broken
 # Run the project
 
 # Using password
-**Register**
+**Register**  
 http://localhost:9000/auth/password/register
 
-**Login**
+**Login**  
 http://localhost:9000/auth/password/login
 
 ## Using Google
