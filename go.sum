@@ -1,3 +1,4 @@
+cloud.google.com/go v0.34.0 h1:eOI3/cP2VTU6uZLDYAoic+eyzzB9YyGmJ7eIjl8rOPg=
 cloud.google.com/go v0.34.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/PuerkitoBio/goquery v1.5.1/go.mod h1:GsLWisAFVj4WgDibEWF4pvYnkVQBpKBKeU+7zCJoLcc=
@@ -98,6 +99,7 @@ github.com/qor/render v1.1.1 h1:DaGaKlf0OzpOB+hJUEiOTbZ40mg+n+LlSJx20/KUfes=
 github.com/qor/render v1.1.1/go.mod h1:0cGVpTjSVSjjyrhLiLTMgbMeblLQba7vcKkZHMLlYJw=
 github.com/qor/responder v0.0.0-20171031032654-b6def473574f h1:sKELSAyL+z5BRHFe97Bx71z197cBEobVJ6rASKTMSqU=
 github.com/qor/responder v0.0.0-20171031032654-b6def473574f/go.mod h1:0TL2G+qGDYhHJ6XIJ6UcqkZVN+jp8AGqGU2wDnv2qas=
+github.com/qor/roles v0.0.0-20171127035124-d6375609fe3e h1:F0BNcPJKfubM/+IIILu/GbrH9v2vPZWQ5/StSRKUfK4=
 github.com/qor/roles v0.0.0-20171127035124-d6375609fe3e/go.mod h1:++RicL9Ia/BrQHppwAsMc5CA7mAjnBLNniB46MzUteA=
 github.com/qor/serializable_meta v0.0.0-20180510060738-5fd8542db417/go.mod h1:ZhRkze6qCgCNNqisHEFTAkndoBtY/XJbA03LJLJrzDY=
 github.com/qor/session v0.0.0-20170907035918-8206b0adab70 h1:8l21EEdlZ9R0AA3FbeUAANc5NAx8Y3tn1VKbyAgjYlI=
